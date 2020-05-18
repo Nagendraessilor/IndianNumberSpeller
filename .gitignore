@@ -3,3 +3,7 @@
 ################################################################################
 
 /IndianNumberSpeller/bin/Debug/netstandard2.0
+/IndianNumberSpeller/obj
+/IndianNumberSpellerTester/bin/Debug/netcoreapp3.1
+/IndianNumberSpellerTester/obj
+/.vs/IndianNumberSpeller/v16
